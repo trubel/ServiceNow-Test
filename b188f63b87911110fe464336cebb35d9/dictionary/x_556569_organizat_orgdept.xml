@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="OrgDept" max_length="40" name="x_556569_organizat_orgdept" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Level1" max_length="40" name="level1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Level2" max_length="40" name="level2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Level3" max_length="40" name="level3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="OrgID" max_length="40" name="orgid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Org_Desc" max_length="150" name="org_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Org_ShortDesc" max_length="40" name="org_shortdesc" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

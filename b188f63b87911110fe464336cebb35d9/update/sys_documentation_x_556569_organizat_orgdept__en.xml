@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="OrgDept" language="en" table="x_556569_organizat_orgdept">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>OrgDept</label>
+            <language>en</language>
+            <name>x_556569_organizat_orgdept</name>
+            <plural>OrgDepts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-21 00:25:18</sys_created_on>
+            <sys_id>dcaab6fb87911110fe464336cebb35b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>OrgDept</sys_name>
+            <sys_package display_value="Organization Management" source="x_556569_organizat">b188f63b87911110fe464336cebb35d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Organization Management">b188f63b87911110fe464336cebb35d9</sys_scope>
+            <sys_update_name>sys_documentation_x_556569_organizat_orgdept__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-21 00:25:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
